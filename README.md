@@ -1,16 +1,11 @@
-# nagi-dark README
+# Nagi Dark
 
-## Working with Markdown
+## Overview
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Nagi Dark is a dark theme for Visual Studio Code. Named after a Japanese word「凪」
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Credits
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This theme is built upon and inspired by the following amazing open-source themes:
+* [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) by Binaryify
+* [Winter is Coming](https://github.com/johnpapa/vscode-winteriscoming) by John Papa
