@@ -4,6 +4,13 @@ All notable changes to the "nagi-dark" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.2.2] - 2026-03-07
+
+- Updated: Text Preformat Colors
+- Updated: Badge Colors
+- Fixed: Title Bar Colors
+- Updated: README.md
+
 ## [0.2.1] - 2026-03-06
 
 - Updated: Git Colors
