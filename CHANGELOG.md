@@ -4,6 +4,11 @@ All notable changes to the "nagi-dark" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.2.0] - 2026-03-06
+
+- Updated: Status Bar Colors
+- Updated: Link Text Color
+
 ## [0.1.2] - 2026-03-06
 
 - Fixed: Engine version
