@@ -9,3 +9,6 @@ publish-minor:
 publish-major:
 	npx @vscode/vsce publish major
 	npx ovsx publish 
+
+build:
+	npx @vscode/vsce package
