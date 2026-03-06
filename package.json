@@ -1,8 +1,19 @@
 {
   "name": "nagi-dark",
-  "displayName": "nagi-dark",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Dagi Dark",
+  "description": "Dark Navy Theme for Visual Studio Code",
+  "version": "0.1.0",
+  "publisher": "kent0011",
+  "icon": "images/nagi-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kent0011/nagi-dark"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Navy Theme"
+  ],
   "engines": {
     "vscode": "^1.109.0"
   },
