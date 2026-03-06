@@ -4,6 +4,11 @@ All notable changes to the "nagi-dark" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.1.1] - 2026-03-06
+
+- Fixed: Display Name
+
+
+## [0.1.0] - 2026-03-06
 
 - Initial release
