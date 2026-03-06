@@ -1,0 +1,21 @@
+{
+  "name": "nagi-dark",
+  "displayName": "nagi-dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nagi Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nagi Dark-color-theme.json"
+      }
+    ]
+  }
+}
