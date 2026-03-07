@@ -4,6 +4,10 @@ All notable changes to the "nagi-dark" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.0] - 2026-03-07
+
+- Major Rerelease
+
 ## [0.2.2] - 2026-03-07
 
 - Updated: Text Preformat Colors
