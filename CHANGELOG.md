@@ -4,6 +4,13 @@ All notable changes to the "nagi-dark" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+
+## [1.0.3] - 2026-03-07
+
+- Fixed: Diff Editor Colors
+- Fixed: Selection Colors
+- Fixed: Active Tab Border Colors
+
 ## [1.0.2] - 2026-03-07
 
 - Updated: Number Colors
