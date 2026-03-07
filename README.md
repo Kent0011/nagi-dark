@@ -12,7 +12,9 @@ This theme is built upon and inspired by the following amazing open-source theme
 - [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) by Binaryify
 - [Winter is Coming](https://github.com/johnpapa/vscode-winteriscoming) by John Papa
 
+## Screenshots
 
+Here are some screenshots of the theme in action:
 <table>
   <tr>
     <td><img src="images/theme0.png" alt="Nagi Dark Screenshot" width="100%"></td>
