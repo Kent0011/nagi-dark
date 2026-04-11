@@ -4,6 +4,9 @@ All notable changes to the "nagi-dark" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.5] - 2026-04-12
+- Updated: input Background Colors
+
 ## [1.0.4] - 2026-03-12
 
 - Fixed: Editor Background Colors
